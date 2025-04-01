@@ -2,7 +2,7 @@
 🎓 **B.Tech Student in Artificial Intelligence and Data Science**  
 🧠 **AI and Machine Learning Enthusiast**  
 🩺 **Passionate about Technology and Healthcare Innovations**  
-
+--- BUILDING IMPACTFUL SOLUTIONS ---
 ---
 
 ## 🛠️ Skills
