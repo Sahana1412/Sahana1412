@@ -89,12 +89,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahana1412&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahana's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sahana1412&style=for-the-badge&color=0A66C2" alt="Profile Views"/>
 </p>
 
