@@ -10,16 +10,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 **Degree:** B.Tech — AI & Data Science (Medical Engineering), Amrita Vishwa Vidyapeetham · CGPA: 9.06
-- 🔬 Published IEEE paper on **SecureMeds** — AES encryption + OTP for secure medical record management
-- 🤖 Interested in: Medical AI · Generative Models · LLM Fine-tuning · Edge AI · RAG Pipelines
-- 📫 Reach me at: **sahanarameshkumar1@gmail.com**
+-  **Degree:** B.Tech — AI & Data Science (Medical Engineering), Amrita Vishwa Vidyapeetham · CGPA: 9.06
+-  Published IEEE paper on **SecureMeds** — AES encryption + OTP for secure medical record management
+-  Interested in: Medical AI · Generative Models · LLM Fine-tuning · Edge AI · RAG Pipelines
+-  Reach me at: **sahanarameshkumar1@gmail.com**
 
 ---
 
-## 💻 Languages
+##  Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tools & Frameworks
+##  Tools & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 ML & Data Science
+##  ML & Data Science
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -62,17 +62,17 @@
 </p>
 
 **Specialisations:**
-- 📈 Exploratory Data Analysis (EDA) & Feature Engineering
-- 🔬 LLM Fine-tuning (Dreambooth, ESM-2, LoRA-style approaches)
-- 🔁 RAG Pipelines (Retrieval-Augmented Generation)
-- 🤖 AI Agents with MCP (Model Context Protocol)
-- 🧬 Generative Models (Stable Diffusion, VAE, Diffusion Priors)
-- 🏥 Medical Imaging (CNN, ViT, Grad-CAM, ADMM)
-- 🔍 Model Interpretability (SHAP, Grad-CAM)
+-  Exploratory Data Analysis (EDA) & Feature Engineering
+-  LLM Fine-tuning (Dreambooth, ESM-2, LoRA-style approaches)
+-  RAG Pipelines (Retrieval-Augmented Generation)
+-  AI Agents with MCP (Model Context Protocol)
+-  Generative Models (Stable Diffusion, VAE, Diffusion Priors)
+-  Medical Imaging (CNN, ViT, Grad-CAM, ADMM)
+-  Model Interpretability (SHAP, Grad-CAM)
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sahana-r-744268337/" target="_blank">
