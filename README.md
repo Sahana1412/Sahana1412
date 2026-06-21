@@ -15,7 +15,7 @@
 -  **Degree:** B.Tech - AI & Data Science (Medical Engineering), Amrita Vishwa Vidyapeetham · CGPA: 9.06
 -  Published IEEE paper on **SecureMeds** - AES encryption + OTP for secure medical record management
 -  Interested in: Medical AI · Generative Models · LLM Fine-tuning · Edge AI · RAG Pipelines
--  Reach me at: **sahanarameshkumar1@gmail.com**
+-  RESUME: https://goresume.io/sahana-1782057802761723/sahanaresume 
 -  AI/ML intern at NamoLabs
 
 ---
