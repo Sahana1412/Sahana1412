@@ -68,9 +68,9 @@
 -  LLM Fine-tuning (Dreambooth, ESM-2, LoRA-style approaches)
 -  RAG Pipelines (Retrieval-Augmented Generation)
 -  AI Agents with MCP (Model Context Protocol)
+-  AI Agents with Langchain, Langraph, and CrewAI
 -  Generative Models (Stable Diffusion, VAE, Diffusion Priors)
 -  Medical Imaging (CNN, ViT, Grad-CAM, ADMM)
--  Model Interpretability (SHAP, Grad-CAM)
 
 ---
 
