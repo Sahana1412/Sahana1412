@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sahana R 👋</h1>
+<h1 align="center">Hi there, I'm Sahana R </h1>
 
 <p align="center">
   <em>B.Tech in Artificial Intelligence & Data Science (Medical Engineering) · Amrita Vishwa Vidyapeetham, Coimbatore</em>
